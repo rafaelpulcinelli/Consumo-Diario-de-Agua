@@ -1,4 +1,4 @@
-# Sistema de Controle de Consumo de Água
+# Sistema de Controle Diário de Consumo de Água
 
 ### Objetivo
 Este projeto visa ajudar os usuários a monitorarem o consumo diário de água, indicando a quantidade ideal a ser consumida e fornecendo feedback com base no volume ingerido. O programa também apresenta frases motivacionais, para inspirar o usuário.
